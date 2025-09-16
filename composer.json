@@ -1,0 +1,11 @@
+{
+  "name": "student/bibliotech-php-oop-session",
+  "description": "Bibliotech PHP OOP (sin DB) con persistencia en SESSION + Tailwind UI estrat\u00e9gica",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}

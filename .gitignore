@@ -1,0 +1,22 @@
+# Composer dependencies
+/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# PHPStorm/NetBeans/others
+nbproject/
+
+# Logs and cache
+*.log
+*.cache
+*.tmp
+
+# Environment files
+.env
+.env.local
